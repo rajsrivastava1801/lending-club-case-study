@@ -1,6 +1,6 @@
 
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This project explores how to identify risky loan applicants using Exploratory Data Analysis (EDA). We analyze past loan data to understand factors that influence whether a person will default on a loan.
 
 
 ## Table of Contents
@@ -16,6 +16,12 @@
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
+
+## Objectives
+The goal is to find patterns in applicant and loan data that indicate the likelihood of default. This knowledge helps the company:
+- Deny loans to high-risk applicants
+- Reduce loan amounts
+- Charge higher interest rates for risky loans
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
