@@ -49,8 +49,8 @@ Give credit here.
 
 
 ## Team
-Rahul Srivastava
-Raj Srivastava
+-  Rahul Srivastava
+-  Raj Srivastava
 
 <!-- Optional -->
 <!-- ## License -->
