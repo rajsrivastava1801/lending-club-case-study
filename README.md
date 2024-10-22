@@ -4,56 +4,29 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Problem Statement](#problem-statement)
+* [Business Objectives](#business-objectives)
+* [Exploratory Data Analysis](#exploratory-data-analysis)
 
-<!-- You can include any other section that is pertinent to your problem -->
+## Problem Statement
+This case study focuses on solving real business problems using Exploratory Data Analysis (EDA). It aims to develop a foundational understanding of risk analytics in the banking and financial services sector, specifically how data can minimize the risk of loss when lending to customers.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-## Objectives
+## Business Objectives
 The goal is to find patterns in applicant and loan data that indicate the likelihood of default. This knowledge helps the company:
 - Deny loans to high-risk applicants
 - Reduce loan amounts
 - Charge higher interest rates for risky loans
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Exploratory Data Analysis
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+In this project, various EDA techniques will be applied to:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Analyze consumer and loan attributes.
+- Identify patterns and correlations that indicate potential defaults.
+- Provide insights that can guide the company's lending strategies.
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Team
--  Rahul Srivastava
--  Raj Srivastava
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+- #### Rahul Srivastava
+- #### Raj Srivastava
