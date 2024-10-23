@@ -8,7 +8,7 @@
 * [Business Objectives](#business-objectives)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Conclusion](#conclusion)
-* [Installation](#installation)
+* [Technology Used](#technology-used)
 
 ## Problem Statement
 This case study focuses on solving real business problems using Exploratory Data Analysis (EDA). It aims to develop a foundational understanding of risk analytics in the banking and financial services sector, specifically how data can minimize the risk of loss when lending to customers.
@@ -42,10 +42,10 @@ In this project, various EDA techniques will be applied to:
 
 
 
-## Installation
-
-To run this project locally, ensure you have Python installed. You can install the necessary libraries using pip:
-pip install pandas numpy matplotlib seaborn
+## Technology Used
+- Python 3.11
+- To run this project locally, ensure you have Python installed. You can install the necessary libraries using pip:
+  pip install pandas numpy matplotlib seaborn
 
 ## Team
 - #### Rahul Srivastava
