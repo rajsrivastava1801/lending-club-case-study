@@ -28,11 +28,11 @@ In this project, various EDA techniques will be applied to:
 - Provide insights that can guide the company's lending strategies.
 
 ## Conclusion
--Debt-To-Income (DTI) Ratio is directly proportional
--Loan Grades and sub-grades is directly proportional
--Loan Terms (Tenure) of 60 months is riskier than 30 months.
--Loan Purpose, specifically small business seems to be risky.
--Interest Rate group is also directly proportional 
+- Debt-To-Income (DTI) Ratio is directly proportional
+- Loan Grades and sub-grades is directly proportional
+- Loan Terms (Tenure) of 60 months is riskier than 30 months.
+- Loan Purpose, specifically small business seems to be risky.
+- Interest Rate group is also directly proportional 
 
 
 ## Installation
