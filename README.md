@@ -28,11 +28,18 @@ In this project, various EDA techniques will be applied to:
 - Provide insights that can guide the company's lending strategies.
 
 ## Conclusion
+#### Loan Default Driving Factors
 - Debt-To-Income (DTI) Ratio is directly proportional
 - Loan Grades and sub-grades is directly proportional
 - Loan Terms (Tenure) of 60 months is riskier than 30 months.
 - Loan Purpose, specifically small business seems to be risky.
-- Interest Rate group is also directly proportional 
+- Interest Rate group is also directly proportional
+#### Loan Default Non Driving Factors
+- Home Ownership
+- Address State
+- Income Verification Status
+- Employment Length
+
 
 
 ## Installation
