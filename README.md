@@ -7,6 +7,7 @@
 * [Problem Statement](#problem-statement)
 * [Business Objectives](#business-objectives)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Conclusion](#conclusion)
 * [Installation](#installation)
 
 ## Problem Statement
@@ -25,6 +26,13 @@ In this project, various EDA techniques will be applied to:
 - Analyze consumer and loan attributes.
 - Identify patterns and correlations that indicate potential defaults.
 - Provide insights that can guide the company's lending strategies.
+
+## Conclusion
+-Debt-To-Income (DTI) Ratio is directly proportional
+-Loan Grades and sub-grades is directly proportional
+-Loan Terms (Tenure) of 60 months is riskier than 30 months.
+-Loan Purpose, specifically small business seems to be risky.
+-Interest Rate group is also directly proportional 
 
 
 ## Installation
